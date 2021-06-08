@@ -1,0 +1,46 @@
+[[Spot_julia]]
+arch = "x86_64"
+git-tree-sha1 = "ba8a858c9c697fdf22079badc86aaef27d3ab20f"
+os = "macos"
+
+    [[Spot_julia.download]]
+    sha256 = "1630160d673193af2fa575fc30ec81d8fb7546205c984a84011c4529e52e9fea"
+    url = "https://github.com/JuliaBinaryWrappers/Spot_julia_jll.jl/releases/download/Spot_julia-v2.9.7+0/Spot_julia.v2.9.7.x86_64-apple-darwin.tar.gz"
+[[Spot_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b36920b262cc878cc4df4ef4eaae26be367b738"
+libc = "glibc"
+os = "linux"
+
+    [[Spot_julia.download]]
+    sha256 = "9edd5ef32858ad5420c2b34bbda70929de076c4e336cf0297f8c37ea30bb31b7"
+    url = "https://github.com/JuliaBinaryWrappers/Spot_julia_jll.jl/releases/download/Spot_julia-v2.9.7+0/Spot_julia.v2.9.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[Spot_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4cad4d05e91243e011c6fb0c6371428360194b8c"
+libc = "glibc"
+os = "linux"
+
+    [[Spot_julia.download]]
+    sha256 = "8e9532412ca4e621fcf200b765c4e29669466b844aa4a794e2fdfdcbc5820160"
+    url = "https://github.com/JuliaBinaryWrappers/Spot_julia_jll.jl/releases/download/Spot_julia-v2.9.7+0/Spot_julia.v2.9.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[Spot_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6214fd2ac3a34d8c2abfee7687cd15460c1ed7f"
+os = "windows"
+
+    [[Spot_julia.download]]
+    sha256 = "811957e7e0eb2ee56eea3b4b6fa86ba918adab811129165e099ee50d0abf48c2"
+    url = "https://github.com/JuliaBinaryWrappers/Spot_julia_jll.jl/releases/download/Spot_julia-v2.9.7+0/Spot_julia.v2.9.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Spot_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a76e87811230d2b33fac369b0dd52b80d65a1219"
+os = "windows"
+
+    [[Spot_julia.download]]
+    sha256 = "5efa45d2eefa2e229908594b876d8f866b133983954f8dfdd378193e092243ac"
+    url = "https://github.com/JuliaBinaryWrappers/Spot_julia_jll.jl/releases/download/Spot_julia-v2.9.7+0/Spot_julia.v2.9.7.x86_64-w64-mingw32-cxx11.tar.gz"
