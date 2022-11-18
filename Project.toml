@@ -1,6 +1,6 @@
 name = "Spot_julia_jll"
 uuid = "b9ff107b-b78e-5f57-8772-57a339630ba9"
-version = "2.9.7+1"
+version = "2.9.7+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
